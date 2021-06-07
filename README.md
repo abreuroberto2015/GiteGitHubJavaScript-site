@@ -1,2 +1,2 @@
 # projeto-site
- Projeto do cruso de Git e GitHub
+ Projeto do curso de Git e GitHub
